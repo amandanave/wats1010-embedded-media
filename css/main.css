@@ -67,6 +67,10 @@ header {
   display: inline-block center;
 }
 
+.main-nav ul {
+  display: inline-block; 
+}
+
 .main-nav li a {
   color: white;
   padding: 14px 16px;
@@ -88,17 +92,20 @@ header {
 }
 
 .weybec-people {
-  list-style-type: none; 
-  float: center;
+  list-style-type: none;
   text-align: center;
+  display: inline;
 }
+
 #info {
   padding: 25px;
 }
+
 #project {
   padding: 25px;
 }
+
 footer {
-  padding: 25px; 
+  padding: 25px;
   text align: center;
 }
