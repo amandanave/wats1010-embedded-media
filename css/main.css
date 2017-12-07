@@ -12,7 +12,7 @@ html {
 body {
   margin: 0;
   font-family: 'verdana', sans-serif;
-  color: #f2efef;
+  color: black;
   background: #a8dae2;
 }
 
@@ -103,6 +103,11 @@ header {
 
 #project {
   padding: 25px;
+}
+.people {
+  width: 80%;
+  margin: auto;
+  
 }
 
 footer {
