@@ -12,8 +12,8 @@ html {
 body {
   margin: 0;
   font-family: 'verdana', sans-serif;
-  color: black;
-  background: #a8dae2;
+  color: #f4b942;
+  background: #4286f4;
 }
 
 header {
@@ -51,30 +51,32 @@ header {
   list-style-type: none;
   float: center;
   overflow: hidden;
-  text-align: center;
+  align-self: center;
+ 
 }
 
 .main-nav a {
   float: left;
-  color: #f2f2f2;
   text-align: center;
   text-decoration: none;
   font-size: 17px;
   display: inline-block;
   width: 200px;
   float: center;
-  padding: 250px;
   display: inline-block center;
+
 }
 
 .main-nav ul {
   display: inline-block; 
+
 }
 
 .main-nav li a {
-  color: white;
   padding: 14px 16px;
+  width: 300px;
   text-decoration: none;
+  color: #98dd3e;
 }
 
 .main-nav a:hover {
@@ -104,10 +106,20 @@ header {
 #project {
   padding: 25px;
 }
-.people {
+.pratik {
   width: 80%;
   margin: auto;
-  
+  text-align: center;
+}
+.nita {
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+.niyal {
+  width: 100%;
+  margin: auto;
+  text-align: center;
 }
 
 footer {
