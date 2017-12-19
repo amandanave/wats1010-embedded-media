@@ -52,7 +52,6 @@ header {
   float: center;
   overflow: hidden;
   align-self: center;
- 
 }
 
 .main-nav a {
@@ -64,12 +63,10 @@ header {
   width: 200px;
   float: center;
   display: inline-block center;
-
 }
 
 .main-nav ul {
-  display: inline-block; 
-
+  display: inline-block;
 }
 
 .main-nav li a {
@@ -106,16 +103,19 @@ header {
 #project {
   padding: 25px;
 }
+
 .pratik {
   width: 80%;
   margin: auto;
   text-align: center;
 }
+
 .nita {
   width: 100%;
   margin: auto;
   text-align: center;
 }
+
 .niyal {
   width: 80%;
   margin: auto;
