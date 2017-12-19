@@ -10,7 +10,7 @@ html {
 }
 
 body {
-  margin: 0;
+  margin: 10px;
   font-family: 'verdana', sans-serif;
   color: #f4b942;
   background: #4286f4;
@@ -117,7 +117,7 @@ header {
   text-align: center;
 }
 .niyal {
-  width: 100%;
+  width: 80%;
   margin: auto;
   text-align: center;
 }
